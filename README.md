@@ -5,11 +5,11 @@
 <p
   ### **Contato | Contact**
 <div>
-  <a href="https://discord.com/users/kkk" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-9A84F1?style=for-the-badge&logo=discord&logoColor=9A84F1&label=jdkaguiar" alt="Discord"></a>
+  <a href="https://discord.com/users/1286008777203515586" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-9A84F1?style=for-the-badge&logo=discord&logoColor=9A84F1&label=jdkaguiar" alt="Discord"></a>
 </div>
 
 <div align="center">
-  <a href="https://discord.com/users/1285666105427234949"><img style="min-width: 134px; max-height: 134px;" width="320" src="https://lanyard.cnrad.dev/api/1285666105427234949?theme=dark&bg=00000000&idleMessage=Programming....&hideTimestamp=true" alt="Discord Status" /></a>
+  <a href="https://discord.com/users/1286008777203515586"><img style="min-width: 134px; max-height: 134px;" width="320" src="https://lanyard.cnrad.dev/api/1286008777203515586?theme=dark&bg=00000000&idleMessage=Programming....&hideTimestamp=true" alt="Discord Status" /></a>
 </div>
 </p>
 <p>
